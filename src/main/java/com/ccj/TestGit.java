@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("演示合并冲突 hot-fix");
         System.out.println("pull test");
         System.out.println("演示低版本不能push到高版本");
+        System.out.println("演示推送");
     }
 }
