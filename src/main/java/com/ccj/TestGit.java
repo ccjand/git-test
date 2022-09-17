@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("go go go go!!!");
         System.out.println("hot-fix test");
         System.out.println("演示合并冲突 master ");
+        System.out.println("演示合并冲突 hot-fix");
     }
 }
